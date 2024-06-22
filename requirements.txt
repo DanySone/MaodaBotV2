@@ -1,0 +1,6 @@
+discord.py
+requests
+django-apscheduler
+python-dotenv
+django4-background-tasks
+Pybooru
